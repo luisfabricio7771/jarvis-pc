@@ -1,4 +1,4 @@
-# ⚙️ MARK LVI (56)
+# ⚙️ Jarvis .38
 ### Personal AI Assistant — Local Edition
 
 Actualización 24/10/2026: **Gemini 3.8 Live con voz predeterminada (Auto)**.
